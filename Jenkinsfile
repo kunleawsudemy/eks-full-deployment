@@ -1,3 +1,4 @@
+#!/usr/bin/
 pipeline {
     agent any
     environment {
